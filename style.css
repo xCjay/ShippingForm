@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+form{
+    width: 50vw;
+    padding-left: 25vw;
+}
+
+body{
+    background-color: gray;
+
+
+}
+
+input{
+    background-color: lightgray;
+}
